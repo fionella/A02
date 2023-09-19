@@ -1,0 +1,20 @@
+# A02
+Firstly, for mac, go to this website, https://desktop.github.com/, to download the GitHub deskstop.
+Create an account with GitHub using your NJIT email.
+Follow the steps to what the websites tell you to do. 
+
+Glossary
+1. Branch - set of code that is being worked on but does not affect the original code in the master class
+2. Clone - create a copy of the code into the desktop
+3. Commit - saves the recent edit on to the files
+4. Fetch - to review all commit and edits
+5. GIT - software that help uploads changes and edits to github
+6. GitHub - is a platform to submit, review, and see others code
+7. Merge - combines the branches into a single one final branch
+8. Merge Conflict - when github is not able to fix the issue between commit and has to be fixed manually
+9. Push - used to upload code to repository 
+10. Pull - used to look at commits and review it
+11. Remote - repository used to share through github
+12. Repository - a storage of code for projects
+
+Reference Link : https://docs.github.com/en
